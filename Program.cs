@@ -6,4 +6,3 @@ Console.WriteLine("2. Laranja");
 Console.WriteLine("3. Manga");
 Console.WriteLine("4. Banana");
 Console.WriteLine("5. Maça");
-
